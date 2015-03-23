@@ -9,6 +9,7 @@ After installing, A context menu "Add to Google Calendar" will appear on right c
 * User must be logged into his/her Gmail account
 
 ## Download
+* Chrome webstore link https://chrome.google.com/webstore/detail/calevent/ogpdfkoemeklmmjemphhfhmechjmkkap
 * https://github.com/vs4vijay/CalEvent/releases
 
 
