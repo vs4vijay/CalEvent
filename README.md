@@ -3,7 +3,7 @@ CalEvent
 
 CalEvent - Easily add Event to Google Calendar
 
-After installing, A context menu "Add to Google Calendar" will appear on right click. This will add an event to your google calendar with selected text as Title.
+After installing, A context menu (on right click of mouse) "Add to Google Calendar" will appear. This will add an event to google calendar with Title as selected text.
 
 ## Requirement
 * User must be logged into his/her Gmail account
